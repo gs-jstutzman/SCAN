@@ -1,10 +1,10 @@
 [
  {
- 	 "barcode": 1111
+ 	 "barcode": 1111,
  	 "name": "ITEM 1"
  },
  {
-  "barcode": 2222
+  "barcode": 2222,
  	 "name": "ITEM 2"
  }
 ]
